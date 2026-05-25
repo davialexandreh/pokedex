@@ -1,0 +1,43 @@
+export const palettes = {
+  light: {
+    background: '#F5F5F7',
+    surface: '#FFFFFF',
+    text: '#1C1C1E',
+    textMuted: '#6E6E73',
+    border: '#E5E5EA',
+    primary: '#E63946',
+    inputBg: '#FFFFFF',
+    cardShadow: '#000000',
+  },
+  dark: {
+    background: '#0B0B0F',
+    surface: '#1C1C1E',
+    text: '#F5F5F7',
+    textMuted: '#8E8E93',
+    border: '#2C2C2E',
+    primary: '#FF6B7A',
+    inputBg: '#1C1C1E',
+    cardShadow: '#000000',
+  },
+};
+
+export const typeColors = {
+  normal: '#A8A77A',
+  fire: '#EE8130',
+  water: '#6390F0',
+  electric: '#F7D02C',
+  grass: '#7AC74C',
+  ice: '#96D9D6',
+  fighting: '#C22E28',
+  poison: '#A33EA1',
+  ground: '#E2BF65',
+  flying: '#A98FF3',
+  psychic: '#F95587',
+  bug: '#A6B91A',
+  rock: '#B6A136',
+  ghost: '#735797',
+  dragon: '#6F35FC',
+  dark: '#705746',
+  steel: '#B7B7CE',
+  fairy: '#D685AD',
+};
