@@ -25,7 +25,6 @@ Extras implementados: scroll infinito, dark mode (segue o sistema, com toggle ma
 
 ```bash
 # 1. Instalar as dependências
-cd pokedex
 npm install
 
 # 2. Iniciar o bundler
