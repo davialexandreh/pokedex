@@ -2,6 +2,8 @@
 
 Aplicativo em React Native que consome a [PokeAPI](https://pokeapi.co/) e exibe uma lista de pokémons, com busca por nome e tela de detalhes.
 
+Extras implementados: scroll infinito, dark mode (segue o sistema, com toggle manual no header) e cache local com fallback offline.
+
 ## Stack
 
 - **Expo (SDK 54)** + **React Native 0.81** — workflow gerenciado, roda no celular via Expo Go
